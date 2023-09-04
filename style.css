@@ -1,0 +1,20 @@
+.container{
+    display: flex;
+    justify-content: center;
+    
+}
+li:nth-child(1) {
+    background: yellow;
+}
+li:nth-child(2) {
+    background: rgb(14, 10, 210);
+}
+li:nth-child(3) {
+    background: rgb(188, 7, 128);
+}
+li:nth-child(4){
+    background: rgb(11, 11, 11);
+}
+li:nth-child(5){
+    background: rgb(9, 198, 18);
+}
